@@ -1,2 +1,2 @@
 # BEESAP
-WebApp para a biblioteca da escola Secundária Adolfo Portela
+WebApp dedicada a biblioteca da escola Secundária Adolfo Portela
